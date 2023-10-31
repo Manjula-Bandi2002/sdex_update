@@ -2,61 +2,61 @@
     "users": [
       {
         "Id": 1,
-        "TITLE": "Gertrudis Tatterton",
+        "title": "Gertrudis Tatterton",
         "UserId": 18,
         "Completed": "YES"
       },
       {
-        "Id": "2",
-        "TITLE": "Gail Newbatt",
+        "Id": 2,
+        "title": "Gail Newbatt",
         "UserId": 53,
         "Completed": "No"
       },
       {
         "Id": 3,
-        "TITLE": "Walliw Wilstead",
+        "title": "Walliw Wilstead",
         "UserId": 49,
         "Completed": "No"
       },
       {
         "Id": 4,
-        "TITLE": "Abran Proback",
+        "title": "Abran Proback",
         "UserId": 29,
         "Completed": "Yes"
       },
       {
         "Id": 5,
-        "TITLE": "Roda Chappelow",
+        "title": "Roda Chappelow",
         "UserId": 31,
         "Completed": "No"
       },
       {
         "Id": 6,
-        "TITLE": "Karney Wylie",
+        "title": "Karney Wylie",
         "UserId": 22,
         "Completed": "Yes"
       },
       {
         "Id": 7,
-        "TITLE": "Cammi Pimbley",
+        "title": "Cammi Pimbley",
         "UserId": 63,
         "Completed": "Yes"
       },
       {
         "Id": 8,
-        "TITLE": "Gavra Manning",
+        "title": "Gavra Manning",
         "UserId": 43,
         "Completed": "No"
       },
       {
         "Id": 9,
-        "TITLE": "Zachary Seward",
+        "title": "Zachary Seward",
         "UserId": 45,
         "Completed": "No"
       },
       {
         "Id": 10,
-        "TITLE": "Chucho Norssister",
+        "title": "Chucho Norssister",
         "UserId": 20,
         "Completed": "Yes"
       }
